@@ -3,8 +3,7 @@
 <h1>ABOUT US </h1>
 <p>Our mission at Huddle Up is to make sure our users are satisfied with our website  and are able to make time to hang out with there friends without having to worry about if they have plans or a busy schedule that day. We want our users to be able to have a good time and with the help of our website it is easy to show you days that  you  are free to met up and at what time that you are available </p>
 <BR>
-<center>
-<p> Creaters of Huddle Up </P></center>
+<p> Creators of Huddle Up </P>
 <BR>
  <p>Mahlet Copeland </p>
 <BR>
@@ -13,5 +12,5 @@
 <BR>
  <p>Anne Huang </p>
 <BR>
- <p>Monica Chaves</p>
+ <p>Monica Chavez</p>
 </html>
